@@ -4,7 +4,7 @@
 
 * Internally, revenue, costs (including salary), and the like will be publicly available.
 * Our overarching goal is clear, and we have metrics that point us in the direction we need to go.
-* Our targed metric is prominently big-boarded; projects have their own metrics that are treated similarly.
+* Our targeted metric is prominently big-boarded; projects have their own metrics that are treated similarly.
 * There is a living document that records our goal and all the factors that contribute to and detract from it. All metrics are clearly located on this document, so that we can all understand how each piece affects the whole.
 * Business metrics are **not** available in real-time.
 
