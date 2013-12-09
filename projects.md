@@ -1,6 +1,6 @@
 # Projects
 
-* Anyone can propose a project, but you can only work on it if you can convince at least one other person to devote a significant amount of their time to it.
+* Anyone can propose a project, but it'll only go forward (beyond the proposal) if you can convince at least one other person to devote a significant amount of their time to it.
 * Projects are led (at first) by the proposer; later, the project team may agree to transfer the project to a new owner.
 * Project updates are frequent -- at least weekly, and ideally much more often.
 * A project proposal includes at least the following:
