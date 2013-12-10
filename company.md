@@ -14,6 +14,7 @@
 * Salaries can change as frequently as monthly, though tier moves are at most quarterly.
 * There is no curve or ranking; if we're all amazing, then we all get treated the same (amazingly).
 * Non-financial compensation (healthcare, conference attendance, etc.) is treated identically for all.
+* ? Are equity grants tiered, as well?
 
 ## Feedback
 
