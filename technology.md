@@ -11,6 +11,7 @@
 * Servers are immutable below the application level (i.e., you can deploy to an existing instance, but you have to spin up new instances if you want to change anything outside of the application repo)
 * Standing up a new instance of a service should be trivial; load balancers, etc. should automatically take the new resource into account.
 * Standing up a new service should be nearly as trivial, which means it should be as automated as we can make it.
+* Continuous deployment is the name of the game, with CI as a gatekeeper and feature flags aplenty.
 
 ## Monitoring
 
