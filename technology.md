@@ -1,6 +1,7 @@
 # Technology
 
 ## Architecture
+* Decoupling is a key value.
 * Yay, SOAs! That said, having a separate service for each object is almost always a bad idea.
 * Services should be able to run happily in isolation; all services should provide mocking libraries that are automatically validated against the real code and can be easily used by collaborators in dev and test environments.
 
@@ -25,6 +26,8 @@
 * We only hire people who care about quality. If the build breaks, there should be a race to fix it *because everyone wants it green*.
 * We don't have to test everything, but you should be able to make a convincing argument to your peers when you don't.
 * Clarity is important. Code should be regularly reviewed by devs who don't know anything about it.
+* We have and run integration tests across all systems.
+* QA is everyone's job.
 
 ## Languages and frameworks
 

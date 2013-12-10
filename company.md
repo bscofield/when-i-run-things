@@ -34,3 +34,4 @@
 * Until we reach a certain size, there's going to be work that no one wants to do -- maybe customer support, maybe sales, whatever. We understand that, but if we're committed to succeeding, we'll all pitch in on those. This won't be permanent, however, and we'll establish clear guidelines on when we need to find someone interested in those areas (for instance, once we hit 10 support emails a day)
 * There are very few required meetings -- let's aim for <3 / week (for an individual person). This should serve as a marker that you might be stretching yourself too thinly.
 * Negativity in internal chat will happen -- we all get frustrated at times -- but it's a sign that something is wrong. It bears discussion.
+* Our users are vital; we all talk to them (and, importantly, we **listen** to them).
