@@ -14,4 +14,6 @@
 * Netflix
 * Zappos
 
-## And lots more
+## Open salaries
+
+* [Buffer](http://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/)
