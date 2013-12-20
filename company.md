@@ -35,3 +35,8 @@
 * There are very few required meetings -- let's aim for <3 / week (for an individual person). This should serve as a marker that you might be stretching yourself too thinly.
 * Negativity in internal chat will happen -- we all get frustrated at times -- but it's a sign that something is wrong. It bears discussion.
 * Our users are vital; we all talk to them (and, importantly, we **listen** to them).
+
+## Communication
+* Default to internally-public (chat, etc) channels
+* Recognize that attention is a scarce resource; regularly review automated messaging (errors, deploys, commits, etc.) for usefulness and to make sure that it's using the correct channel.
+* Keep the audience(s) and goal(s) in mind for every communicative action.
