@@ -12,6 +12,8 @@
 * GitHub
 * Valve
 * Netflix
+    * http://www.slideshare.net/reed2001/culture-1798664
+    * http://hbr.org/2014/01/how-netflix-reinvented-hr/ar/1#!
 * Zappos
 
 ## Open salaries
