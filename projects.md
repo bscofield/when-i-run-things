@@ -4,7 +4,7 @@
 * Projects are led (at first) by the proposer; later, the project team may agree to transfer the project to a new owner.
 * Project updates are frequent -- at least weekly, and ideally much more often.
 * A project proposal includes at least the following:
-  * how it contributes to the company's goals.
+  * how it contributes to the company's goals; short-term and long-term gains will be made distinct.
   * how success will be measured.
   * what will be built (the MVP, most likely)
   * what the next steps would be beyond the first iteration

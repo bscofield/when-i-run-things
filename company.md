@@ -11,6 +11,7 @@
 ## Fairness
 
 * There are several tiers for salaries; the tiers provide a base salary, but actual (financial) compensation is increased based on reviews from peers and management, and is weighted heavily by projects and their outcomes.
+* Short-term gain projects and long-term gain projects will be treated distinctly in the above weighting.
 * Salaries can change as frequently as monthly, though tier moves are at most quarterly.
 * There is no curve or ranking; if we're all amazing, then we all get treated the same (amazingly).
 * Non-financial compensation (healthcare, conference attendance, etc.) is treated identically for all.
