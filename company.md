@@ -1,6 +1,6 @@
 # Company
 
-## Transparency
+## Business transparency
 
 * Internally, revenue, costs (including salary), and the like will be publicly available.
 * Our overarching goal is clear, and we have metrics that point us in the direction we need to go.
@@ -41,3 +41,4 @@
 * Default to internally-public (chat, etc) channels
 * Recognize that attention is a scarce resource; regularly review automated messaging (errors, deploys, commits, etc.) for usefulness and to make sure that it's using the correct channel.
 * Keep the audience(s) and goal(s) in mind for every communicative action.
+* Possibly: practice opt-in email transparency (ala Khan Academy; seen influences)

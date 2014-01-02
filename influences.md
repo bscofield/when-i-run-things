@@ -19,3 +19,9 @@
 ## Open salaries
 
 * [Buffer](http://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/)
+
+
+## Email transparency
+
+* [Stripe](https://stripe.com/blog/email-transparency)
+* [Khan Academy](http://bjk5.com/post/71887196490/email-transparency-at-khan-academy)
