@@ -38,7 +38,7 @@
 * Our users are vital; we all talk to them (and, importantly, we **listen** to them).
 
 ## Communication
-* Default to internally-public (chat, etc) channels
+* Default to internally-public (chat, etc) channels unless there is a very good reason to go private. This means that you probably shouldn't "take the conversation offline" unless you commit to recapping the offline discussion and making it public as soon as possible.
 * Recognize that attention is a scarce resource; regularly review automated messaging (errors, deploys, commits, etc.) for usefulness and to make sure that it's using the correct channel.
 * Keep the audience(s) and goal(s) in mind for every communicative action.
 * Possibly: practice opt-in email transparency (ala Khan Academy; seen influences)
