@@ -25,3 +25,7 @@
 
 * [Stripe](https://stripe.com/blog/email-transparency)
 * [Khan Academy](http://bjk5.com/post/71887196490/email-transparency-at-khan-academy)
+
+## Diversity
+
+* [LambdaJam's diversity policy](http://www.lambdajam.com/policies.html)
