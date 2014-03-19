@@ -29,3 +29,7 @@
 ## Diversity
 
 * [LambdaJam's diversity policy](http://www.lambdajam.com/policies.html)
+
+## Time off
+
+* [Jacob Kaplan-Moss on unlimited time off](http://jacobian.org/writing/unlimited-vacation/)
