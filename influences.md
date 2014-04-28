@@ -33,3 +33,7 @@
 ## Time off
 
 * [Jacob Kaplan-Moss on unlimited time off](http://jacobian.org/writing/unlimited-vacation/)
+
+## Organization
+
+* [Spotify Engineering Culture, part 1](http://vimeo.com/85490944)
