@@ -6,6 +6,7 @@
 * LivingSocial (growing startup)
 * Wantful (small startup, shut down)
 * 6Wunderkinder (small, stable startup)
+* BookBub (small, stable startup)
 
 ## Hearsay
 
