@@ -34,6 +34,7 @@
 ## Time off
 
 * [Jacob Kaplan-Moss on unlimited time off](http://jacobian.org/writing/unlimited-vacation/)
+* [Mathias Meyer on minimum time off](http://www.paperplanes.de/2014/12/10/from-open-to-minimum-vacation-policy.html)
 
 ## Organization
 
