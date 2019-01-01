@@ -6,6 +6,7 @@
 * LivingSocial (growing startup)
 * Wantful (small startup, shut down)
 * 6Wunderkinder (small, stable startup)
+* Operable (small startup, shut down)
 * BookBub (small, stable startup)
 
 ## Hearsay
@@ -39,3 +40,7 @@
 ## Organization
 
 * [Spotify Engineering Culture, part 1](http://vimeo.com/85490944)
+
+## Technology
+
+* [Mike Nygard on avoiding entity services](https://www.michaelnygard.com/blog/2018/04/evolving-away-from-entities/)

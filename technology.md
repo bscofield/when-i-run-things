@@ -2,7 +2,7 @@
 
 ## Architecture
 * Decoupling is a key value.
-* Yay, SOAs! That said, having a separate service for each object is almost always a bad idea.
+* Yay, microservices! That said, having a separate service for each object is almost always a bad idea.
 * Services should be able to run happily in isolation; all services should provide mocking libraries that are automatically validated against the real code and can be easily used by collaborators in dev and test environments.
 
 ## Infrastructure
@@ -10,9 +10,12 @@
 * Deployment infrastructure is tested and validated.
 * System configuration is done as readably as it can be (so we favor, e.g., Ansible over Chef).
 * Servers are immutable below the application level (i.e., you can deploy to an existing instance, but you have to spin up new instances if you want to change anything outside of the application repo).
-* We will work towards *eliminating SSH access* to production servers, but we'll do our best to be safe until we get to that point. That includes setting up the default application console to access a read-only copy of the database, for instance.
+* We want to eliminate the need to SSH into production servers; we won't ever disable SSH access, but we will:
+  * log everything that happens in SSH sessions on production
+  * treat each instance as an event to learn from, examining why we needed to SSH in and working to meet that need through less ad-hoc tooling in the future
+  * do our best to make SSHing into production safe, including things like setting up the default application console with read-only rights against the database
 * Standing up a new instance of a service should be trivial; load balancers, etc. should automatically take the new resource into account.
-* Standing up a new service should be nearly as trivial, which means it should be as automated as we can make it.
+* Standing up a new service should be easy but not trivial; we should automate as much as we can, and make sure that our conventions and configurations are well-documented at all times (and that documentation is kept up-to-date). If you have a new application running locally, you should be able to stand it up in production in a couple of hours at most.
 * Continuous deployment is the name of the game, with CI as a gatekeeper and feature flags aplenty.
 
 ## Monitoring
@@ -29,6 +32,7 @@
 * Clarity is important. Code should be regularly reviewed by devs who don't know anything about it.
 * We have and run integration tests across all systems.
 * QA is everyone's job.
+* Documentation is a key contributor to quality, and we will continually look to improve how we write and maintain it.
 
 ## Languages and frameworks
 

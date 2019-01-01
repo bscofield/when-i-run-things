@@ -19,4 +19,4 @@
 * Project teams are responsible for the ongoing maintenance of what they deliver if any is required.
 
 ## Post-mortems
-* Every project should generate a post-mortem, informed by the project's success or failure (as defined in the proposal) and the updates during the process. Ideally, we'll be generating the post-mortem as we go along (both to reduce the work required at the end and to increase its accuracy).
+* Every project should generate a post-mortem, informed by the project's success or failure (as defined in the proposal) and the updates during the process. Ideally, we'll be generating content for the post-mortem as we go along (both to reduce the work required at the end and to increase its accuracy).
